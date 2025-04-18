@@ -11,4 +11,4 @@
 
 <br />
 
-<img src="https://miro.medium.com/v2/resize:fit:400/1*7BULpblpxN_nhGYuTfGzuA.png" alt="Mern logo" width="280">
+<img src="https://miro.medium.com/v2/resize:fit:400/1*7BULpblpxN_nhGYuTfGzuA.png" alt="Mern logo" width="350">
